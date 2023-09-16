@@ -4,8 +4,8 @@
   "description": "C3 Meetup Scaffolding",
   "main": "index.js",
   "scripts": {
-    "test": "jest app.test.js",
-    "start": "node index.js"
+    "test": "jest",
+    "test:watch": "jest --watchAll"
   },
   "author": "Ingage Partners",
   "license": "BSD-3-Clause",
